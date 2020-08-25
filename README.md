@@ -6,9 +6,12 @@ Use NodeMCU ESP8266 development board and DHT22 Temperature and Humdiity Sensor 
 
 ## Circuitry
 
-__DHT22 Pin__       __NodeMCU__
-      + ---------------- 3.3V
-     Out --------------- D5/GPIO 14
-      -  --------------- Gnd
+__DHT22 Pin__   __NodeMCU__
 
-![alt text](\temp-humidity.png)
+__+__ --------------- 3.3V
+
+Out ------------ D5/GPIO 14
+
+__-__ --------------- Gnd
+
+![alt text](schematics/temp-humidity.png)
