@@ -1,2 +1,8 @@
 # Ignore all text files
 *.txt
+
+# vs code folder
+.vscode
+
+# api keys
+.env
